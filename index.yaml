@@ -1,9 +1,23 @@
 apiVersion: v1
 entries:
+  ce-api:
+  - apiVersion: v2
+    appVersion: develop
+    created: "2023-06-16T09:51:09.307998413Z"
+    description: Deploy ClearlyEnergy API to Kubernetes
+    digest: e61f04960fab9957063daeec94685121870a42a4da212792b0fa99b3f59c3015
+    maintainers:
+    - name: ClearlyEnergy
+      url: https://clearlyenergy.com
+    name: ce-api
+    type: application
+    urls:
+    - ce-api-1.0.0.tgz
+    version: 1.0.0
   ce-web:
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-16T09:44:48.776137089Z"
+    created: "2023-06-16T09:51:09.308660562Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: ece81481650f23f8e9699d32f1fca8295eda49587cb16a641d47dca4d19d0518
     maintainers:
@@ -14,4 +28,4 @@ entries:
     urls:
     - ce-web-1.0.2.tgz
     version: 1.0.2
-generated: "2023-06-16T09:44:48.775308785Z"
+generated: "2023-06-16T09:51:09.306982036Z"
