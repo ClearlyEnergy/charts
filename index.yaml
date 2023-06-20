@@ -3,7 +3,7 @@ entries:
   beam:
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2023-06-20T12:36:49.281699927Z"
+    created: "2023-06-20T12:40:58.133420282Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -21,7 +21,20 @@ entries:
   ce-api:
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-20T12:36:49.282405979Z"
+    created: "2023-06-20T12:40:58.1345507Z"
+    description: Deploy ClearlyEnergy API to Kubernetes
+    digest: 2b1d83b93f8182cbe84c72b88bd2196bad0f9236065f6354daa482638c4b858d
+    maintainers:
+    - name: ClearlyEnergy
+      url: https://clearlyenergy.com
+    name: ce-api
+    type: application
+    urls:
+    - ce-api-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: develop
+    created: "2023-06-20T12:40:58.134000091Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: e61f04960fab9957063daeec94685121870a42a4da212792b0fa99b3f59c3015
     maintainers:
@@ -35,7 +48,7 @@ entries:
   ce-web:
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-20T12:36:49.283695873Z"
+    created: "2023-06-20T12:40:58.135597516Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 7cec5c81ed2bde3305fb1a863d08b7735ff95e44634ab6562ce24f6fc58ed1e4
     maintainers:
@@ -48,7 +61,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-20T12:36:49.283067727Z"
+    created: "2023-06-20T12:40:58.135079508Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: ece81481650f23f8e9699d32f1fca8295eda49587cb16a641d47dca4d19d0518
     maintainers:
@@ -59,4 +72,4 @@ entries:
     urls:
     - ce-web-1.0.2.tgz
     version: 1.0.2
-generated: "2023-06-20T12:36:49.276505648Z"
+generated: "2023-06-20T12:40:58.1281485Z"
