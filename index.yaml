@@ -3,7 +3,7 @@ entries:
   beam:
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2023-06-23T08:36:49.708761823Z"
+    created: "2023-06-23T08:39:41.164922046Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -20,7 +20,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2023-06-23T08:36:49.705080837Z"
+    created: "2023-06-23T08:39:41.15974245Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -38,7 +38,7 @@ entries:
   ce-api:
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.711470612Z"
+    created: "2023-06-23T08:39:41.168513244Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 99d672e22ab4dd613335edc10ae6a9ba6f0b82f823b7d843943eafbfa3cfd664
     maintainers:
@@ -51,7 +51,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.710927114Z"
+    created: "2023-06-23T08:39:41.167861945Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: c881df51bc0b7edab9ec209ec33cacf31a45fe4dd5554f15e5de84db85aeeb26
     maintainers:
@@ -64,7 +64,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.710394416Z"
+    created: "2023-06-23T08:39:41.167157845Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 22bebcd4749682228e480760f2a04393da7e3d096683de357dad45502c34e68d
     maintainers:
@@ -77,7 +77,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.709867218Z"
+    created: "2023-06-23T08:39:41.166382946Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 2b1d83b93f8182cbe84c72b88bd2196bad0f9236065f6354daa482638c4b858d
     maintainers:
@@ -90,7 +90,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.70932022Z"
+    created: "2023-06-23T08:39:41.165678146Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: e61f04960fab9957063daeec94685121870a42a4da212792b0fa99b3f59c3015
     maintainers:
@@ -104,7 +104,7 @@ entries:
   ce-web:
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.714185201Z"
+    created: "2023-06-23T08:39:41.171315843Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: d82896a87eec9f84023666c90449e8027e54f1122bf65321fb8b271f15d9d806
     maintainers:
@@ -117,7 +117,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.713480304Z"
+    created: "2023-06-23T08:39:41.170656243Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 82e6f1e80c3a7e957e8743c09b445e99fe422b68132012628ad96ced3fadd3c5
     maintainers:
@@ -130,7 +130,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.712510408Z"
+    created: "2023-06-23T08:39:41.169792943Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 7cec5c81ed2bde3305fb1a863d08b7735ff95e44634ab6562ce24f6fc58ed1e4
     maintainers:
@@ -143,7 +143,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: develop
-    created: "2023-06-23T08:36:49.71199601Z"
+    created: "2023-06-23T08:39:41.169116644Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: ece81481650f23f8e9699d32f1fca8295eda49587cb16a641d47dca4d19d0518
     maintainers:
@@ -157,7 +157,24 @@ entries:
   helix:
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2023-06-23T08:36:49.725548956Z"
+    created: "2023-06-23T08:39:41.19237683Z"
+    dependencies:
+    - name: timescaledb-single
+      repository: https://charts.timescale.com
+      version: 0.33.1
+    description: Deploy HELIX to Kubernetes
+    digest: e80a320c6a2772844810cc623dfb9d1e056ee41dc035e1ae0db5b8c05a056758
+    maintainers:
+    - name: ClearlyEnergy
+      url: https://clearlyenergy.com
+    name: helix
+    type: application
+    urls:
+    - helix-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
+    appVersion: 2023-04-20T19-33
+    created: "2023-06-23T08:39:41.187774132Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -174,7 +191,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2023-06-23T08:36:49.72197647Z"
+    created: "2023-06-23T08:39:41.182810636Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -191,7 +208,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2023-06-23T08:36:49.718427784Z"
+    created: "2023-06-23T08:39:41.178080538Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -206,4 +223,4 @@ entries:
     urls:
     - helix-1.0.0.tgz
     version: 1.0.0
-generated: "2023-06-23T08:36:49.699869558Z"
+generated: "2023-06-23T08:39:41.150860455Z"
