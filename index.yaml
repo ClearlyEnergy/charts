@@ -3,7 +3,24 @@ entries:
   beam:
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.865912663Z"
+    created: "2024-03-27T19:44:36.435922857Z"
+    dependencies:
+    - name: timescaledb-single
+      repository: https://ClearlyEnergy.github.io/charts/
+      version: 1.0.1
+    description: Deploy BEAM to Kubernetes
+    digest: b21a052554de186848cfdb550dffba433b0dfd1b839fa381696124934dfb8ef2
+    maintainers:
+    - name: ClearlyEnergy
+      url: https://clearlyenergy.com
+    name: beam
+    type: application
+    urls:
+    - beam-1.1.12.tgz
+    version: 1.1.12
+  - apiVersion: v2
+    appVersion: 2023-06-08T17-58
+    created: "2024-03-27T19:44:36.433124512Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -20,7 +37,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.89097385Z"
+    created: "2024-03-27T19:44:36.462217522Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -37,7 +54,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.887166209Z"
+    created: "2024-03-27T19:44:36.45943135Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -54,7 +71,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.884378883Z"
+    created: "2024-03-27T19:44:36.456608469Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -71,7 +88,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.881597919Z"
+    created: "2024-03-27T19:44:36.452095884Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -88,7 +105,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.877962237Z"
+    created: "2024-03-27T19:44:36.449236706Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -105,7 +122,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.875196461Z"
+    created: "2024-03-27T19:44:36.446403887Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -122,7 +139,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.872345877Z"
+    created: "2024-03-27T19:44:36.443376485Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -139,7 +156,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.868618998Z"
+    created: "2024-03-27T19:44:36.438680044Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -156,7 +173,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.841827699Z"
+    created: "2024-03-27T19:44:36.404941965Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -173,7 +190,7 @@ entries:
     version: 1.0.20
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.835478148Z"
+    created: "2024-03-27T19:44:36.398847185Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -190,7 +207,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.832705339Z"
+    created: "2024-03-27T19:44:36.394743484Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -207,7 +224,7 @@ entries:
     version: 1.0.18
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.829953058Z"
+    created: "2024-03-27T19:44:36.392002637Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -224,7 +241,7 @@ entries:
     version: 1.0.17
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.826289024Z"
+    created: "2024-03-27T19:44:36.389230571Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -241,7 +258,7 @@ entries:
     version: 1.0.16
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.823637953Z"
+    created: "2024-03-27T19:44:36.3850748Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -258,7 +275,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.820890932Z"
+    created: "2024-03-27T19:44:36.382211955Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -275,7 +292,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.817578616Z"
+    created: "2024-03-27T19:44:36.379524147Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -292,7 +309,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.814530072Z"
+    created: "2024-03-27T19:44:36.376471598Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -309,7 +326,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.811802417Z"
+    created: "2024-03-27T19:44:36.371655177Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -326,7 +343,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.808957714Z"
+    created: "2024-03-27T19:44:36.368913388Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -343,7 +360,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.863204064Z"
+    created: "2024-03-27T19:44:36.430348078Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -360,7 +377,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.859898518Z"
+    created: "2024-03-27T19:44:36.425142801Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -377,7 +394,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.856929154Z"
+    created: "2024-03-27T19:44:36.422422091Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -394,7 +411,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.854245322Z"
+    created: "2024-03-27T19:44:36.419728452Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -411,7 +428,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.851549126Z"
+    created: "2024-03-27T19:44:36.416328965Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -428,7 +445,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.847319015Z"
+    created: "2024-03-27T19:44:36.41240537Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -445,7 +462,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.844589547Z"
+    created: "2024-03-27T19:44:36.40770863Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -462,7 +479,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.839070198Z"
+    created: "2024-03-27T19:44:36.402182092Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -479,7 +496,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2024-03-27T17:34:48.804550933Z"
+    created: "2024-03-27T19:44:36.3660013Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -497,7 +514,7 @@ entries:
   ce-api:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.894198813Z"
+    created: "2024-03-27T19:44:36.467501037Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: f09eb57c3f3f4c0d61a454ba613b6beab84d8a9cfa76b515e9550fbbc5981bac
     maintainers:
@@ -510,7 +527,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.893809085Z"
+    created: "2024-03-27T19:44:36.46642645Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 25f02ad15e9d1e27e36e3c86ceca9ad16e08f3932f374f7d807f293838e7ef85
     maintainers:
@@ -523,7 +540,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.89337803Z"
+    created: "2024-03-27T19:44:36.465520969Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: ae230e058085081f52d76376efa95833d91f4749d40284dd3342801c51f34b99
     maintainers:
@@ -536,7 +553,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.892991799Z"
+    created: "2024-03-27T19:44:36.464566067Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 99d672e22ab4dd613335edc10ae6a9ba6f0b82f823b7d843943eafbfa3cfd664
     maintainers:
@@ -549,7 +566,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.892597612Z"
+    created: "2024-03-27T19:44:36.463870879Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: c881df51bc0b7edab9ec209ec33cacf31a45fe4dd5554f15e5de84db85aeeb26
     maintainers:
@@ -562,7 +579,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.892190031Z"
+    created: "2024-03-27T19:44:36.46348065Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 22bebcd4749682228e480760f2a04393da7e3d096683de357dad45502c34e68d
     maintainers:
@@ -575,7 +592,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.891796436Z"
+    created: "2024-03-27T19:44:36.463074301Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 2b1d83b93f8182cbe84c72b88bd2196bad0f9236065f6354daa482638c4b858d
     maintainers:
@@ -588,7 +605,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.891398663Z"
+    created: "2024-03-27T19:44:36.462629831Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: e61f04960fab9957063daeec94685121870a42a4da212792b0fa99b3f59c3015
     maintainers:
@@ -602,7 +619,7 @@ entries:
   ce-web:
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.896150959Z"
+    created: "2024-03-27T19:44:36.469505719Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: c494f77fb7981b12711f6295cb34b3375c5fe137c55068474d1c3e956f41dd89
     maintainers:
@@ -615,7 +632,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.89565872Z"
+    created: "2024-03-27T19:44:36.469019962Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 2689e0e7970788b1e6f1f68e5faf65f60d8fdd21523c8df2e6e01fc1397bc4f4
     maintainers:
@@ -628,7 +645,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.895188782Z"
+    created: "2024-03-27T19:44:36.468503117Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 7222fb4e92773b18f1938c6257f4fd152a10426629228310e7407d584837579b
     maintainers:
@@ -641,7 +658,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.894713344Z"
+    created: "2024-03-27T19:44:36.468015738Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 4044df745a7712b0bf2801490f1b8f5580666a8224c1bf1f2c6b579bd29253f7
     maintainers:
@@ -654,7 +671,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.900181988Z"
+    created: "2024-03-27T19:44:36.472665339Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 5a4b13a4591bcf557961788c30e9d068f434a04fbbb28f88f9aea4f60e7df763
     maintainers:
@@ -667,7 +684,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.899804092Z"
+    created: "2024-03-27T19:44:36.472292563Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: e2a1fb633f21e3d9c6b6348f21afd639421d782d2a655fe57227fd7f025b1888
     maintainers:
@@ -680,7 +697,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.899386552Z"
+    created: "2024-03-27T19:44:36.47190564Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 405e3e329f6f19f1f1df28c15f1261d8412f5fdf819b11f1a5dbdde0b9279459
     maintainers:
@@ -693,7 +710,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.898987637Z"
+    created: "2024-03-27T19:44:36.47149889Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: a1cb12a22eb54f69bb9f869d641bbc17ef0914aa772a6c5f34601c7d5720d6cb
     maintainers:
@@ -706,7 +723,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.898280456Z"
+    created: "2024-03-27T19:44:36.471121356Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: d82896a87eec9f84023666c90449e8027e54f1122bf65321fb8b271f15d9d806
     maintainers:
@@ -719,7 +736,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.897277312Z"
+    created: "2024-03-27T19:44:36.470680863Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 82e6f1e80c3a7e957e8743c09b445e99fe422b68132012628ad96ced3fadd3c5
     maintainers:
@@ -732,7 +749,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.896904176Z"
+    created: "2024-03-27T19:44:36.470305983Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 7cec5c81ed2bde3305fb1a863d08b7735ff95e44634ab6562ce24f6fc58ed1e4
     maintainers:
@@ -745,7 +762,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: develop
-    created: "2024-03-27T17:34:48.896520008Z"
+    created: "2024-03-27T19:44:36.469925463Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: ece81481650f23f8e9699d32f1fca8295eda49587cb16a641d47dca4d19d0518
     maintainers:
@@ -759,7 +776,7 @@ entries:
   helix:
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.98937536Z"
+    created: "2024-03-27T19:44:36.573074268Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -776,7 +793,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.986174732Z"
+    created: "2024-03-27T19:44:36.568985863Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -793,7 +810,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.98301471Z"
+    created: "2024-03-27T19:44:36.565849678Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -810,7 +827,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.980422599Z"
+    created: "2024-03-27T19:44:36.56307662Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -827,7 +844,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.977829315Z"
+    created: "2024-03-27T19:44:36.560284818Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -844,7 +861,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.974435264Z"
+    created: "2024-03-27T19:44:36.555701953Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -861,7 +878,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.971788801Z"
+    created: "2024-03-27T19:44:36.552920279Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -878,7 +895,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.969146967Z"
+    created: "2024-03-27T19:44:36.550101477Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -895,7 +912,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.965682516Z"
+    created: "2024-03-27T19:44:36.546875852Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -912,7 +929,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.942527851Z"
+    created: "2024-03-27T19:44:36.519013092Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -929,7 +946,7 @@ entries:
     version: 1.0.20
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.936340755Z"
+    created: "2024-03-27T19:44:36.511640808Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -946,7 +963,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.933574749Z"
+    created: "2024-03-27T19:44:36.508864214Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -963,7 +980,7 @@ entries:
     version: 1.0.18
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.930863986Z"
+    created: "2024-03-27T19:44:36.505946416Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -980,7 +997,7 @@ entries:
     version: 1.0.17
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.928080036Z"
+    created: "2024-03-27T19:44:36.501176841Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -997,7 +1014,7 @@ entries:
     version: 1.0.16
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.923493598Z"
+    created: "2024-03-27T19:44:36.498396841Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1014,7 +1031,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.920760784Z"
+    created: "2024-03-27T19:44:36.495644943Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1031,7 +1048,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.918044982Z"
+    created: "2024-03-27T19:44:36.492870002Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1048,7 +1065,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.914519969Z"
+    created: "2024-03-27T19:44:36.489107958Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1065,7 +1082,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.911838391Z"
+    created: "2024-03-27T19:44:36.485513717Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1082,7 +1099,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.909127507Z"
+    created: "2024-03-27T19:44:36.482789461Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1099,7 +1116,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.963067993Z"
+    created: "2024-03-27T19:44:36.542159757Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1116,7 +1133,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.96036248Z"
+    created: "2024-03-27T19:44:36.53941914Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1133,7 +1150,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.957659301Z"
+    created: "2024-03-27T19:44:36.536662724Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1150,7 +1167,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.954051123Z"
+    created: "2024-03-27T19:44:36.533782487Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1167,7 +1184,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.951449595Z"
+    created: "2024-03-27T19:44:36.527305075Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1184,7 +1201,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.948769469Z"
+    created: "2024-03-27T19:44:36.524484689Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1201,7 +1218,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.945242752Z"
+    created: "2024-03-27T19:44:36.521751125Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1218,7 +1235,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.939781662Z"
+    created: "2024-03-27T19:44:36.514370354Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1235,7 +1252,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.905662113Z"
+    created: "2024-03-27T19:44:36.480063872Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1252,7 +1269,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2024-03-27T17:34:48.902957792Z"
+    created: "2024-03-27T19:44:36.476659626Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1269,7 +1286,7 @@ entries:
     version: 1.0.0
   timescaledb-single:
   - apiVersion: v1
-    created: "2024-03-27T17:34:48.995600237Z"
+    created: "2024-03-27T19:44:36.579495968Z"
     description: TimescaleDB HA Deployment.
     digest: 7c0a7039f9ea8e41eee0c00ca40ebb88125f35544511e059a312ecd41d040b8d
     home: https://github.com/timescale/helm-charts
@@ -1286,7 +1303,7 @@ entries:
     - timescaledb-single-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v1
-    created: "2024-03-27T17:34:48.993528236Z"
+    created: "2024-03-27T19:44:36.577339151Z"
     description: TimescaleDB HA Deployment.
     digest: d40a6d98e556fb45892cf3fafd19920dcf421321b7c67089c54bac1d34b3dbbf
     home: https://github.com/timescale/helm-charts
@@ -1303,7 +1320,7 @@ entries:
     - timescaledb-single-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
-    created: "2024-03-27T17:34:48.991477586Z"
+    created: "2024-03-27T19:44:36.575218291Z"
     description: TimescaleDB HA Deployment.
     digest: d2fd26871918f7f17decfc363fc6587198a64ed4e604ad45b176c364fb1f91ba
     home: https://github.com/timescale/helm-charts
@@ -1319,4 +1336,4 @@ entries:
     urls:
     - timescaledb-single-1.0.1.tgz
     version: 1.0.1
-generated: "2024-03-27T17:34:48.801574524Z"
+generated: "2024-03-27T19:44:36.361098226Z"
