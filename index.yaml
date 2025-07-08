@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   ashp:
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.304789482Z"
+    created: "2025-07-08T14:58:22.359012875Z"
     description: Deploy ASHP to Kubernetes
     digest: 7a75e61bf38671262b397adf698220ccb7e1fdc286013c5e31fffca3ff5ad98b
     maintainers:
@@ -14,7 +14,7 @@ entries:
     - ashp-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.304305694Z"
+    created: "2025-07-08T14:58:22.358549424Z"
     description: Deploy ASHP to Kubernetes
     digest: 9c0fb8f00f88fb0e9b271fc07c182136fb492777baffdd1815b61f21e63b4253
     maintainers:
@@ -26,7 +26,7 @@ entries:
     - ashp-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.300146466Z"
+    created: "2025-07-08T14:58:22.353916542Z"
     description: Deploy ASHP to Kubernetes
     digest: fa9aebf3e85e79b4eb150fe2b1b559c6666582b68a3f5dd9f823cbeb569dfb10
     maintainers:
@@ -38,7 +38,7 @@ entries:
     - ashp-1.0.22.tgz
     version: 1.0.22
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.299640847Z"
+    created: "2025-07-08T14:58:22.353460233Z"
     description: Deploy ASHP to Kubernetes
     digest: aa58d2ff9903dd30b765dae30d89b53dadde4798ac1631e6b737c1e22a1ff9eb
     maintainers:
@@ -50,7 +50,7 @@ entries:
     - ashp-1.0.21.tgz
     version: 1.0.21
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.29865652Z"
+    created: "2025-07-08T14:58:22.353020406Z"
     description: Deploy ASHP to Kubernetes
     digest: 52142df66b998e6bf36b285aff89a615b358d6857098df59b7947557beb253aa
     maintainers:
@@ -62,7 +62,7 @@ entries:
     - ashp-1.0.20.tgz
     version: 1.0.20
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.296055006Z"
+    created: "2025-07-08T14:58:22.352089886Z"
     description: Deploy ASHP to Kubernetes
     digest: 7b83d4dfd901984d24542df176c6f49ce08db22fc23e7a6fe681103bf1f2a834
     maintainers:
@@ -74,7 +74,7 @@ entries:
     - ashp-1.0.19.tgz
     version: 1.0.19
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.29556166Z"
+    created: "2025-07-08T14:58:22.351479558Z"
     description: Deploy ASHP to Kubernetes
     digest: b972a73a90fba896814d9b88e175482f1c304e7ef5fc37ccd3651ca780c8e24f
     maintainers:
@@ -86,7 +86,7 @@ entries:
     - ashp-1.0.18.tgz
     version: 1.0.18
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.295048457Z"
+    created: "2025-07-08T14:58:22.351031054Z"
     description: Deploy ASHP to Kubernetes
     digest: 3dae35104331cfd3f48d13399b220827f02194bae2d995aec82877b0317e3794
     maintainers:
@@ -98,7 +98,7 @@ entries:
     - ashp-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.294544731Z"
+    created: "2025-07-08T14:58:22.350550009Z"
     description: Deploy ASHP to Kubernetes
     digest: 13b51a9ff2d7bf920a2def937b5026a5ac801bc89c946229c504dce0739a2e35
     maintainers:
@@ -110,7 +110,7 @@ entries:
     - ashp-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.29403773Z"
+    created: "2025-07-08T14:58:22.350058024Z"
     description: Deploy ASHP to Kubernetes
     digest: 4f6e3155458ee633568040cdce87824605fbe46d071e22105c2070f770c43a0a
     maintainers:
@@ -122,7 +122,7 @@ entries:
     - ashp-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.293531249Z"
+    created: "2025-07-08T14:58:22.349572731Z"
     description: Deploy ASHP to Kubernetes
     digest: 33672caea36e0067e770a3fac50c1fd988dd022413d45522d293dcf206ac4309
     maintainers:
@@ -134,7 +134,7 @@ entries:
     - ashp-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.293011243Z"
+    created: "2025-07-08T14:58:22.34907267Z"
     description: Deploy ASHP to Kubernetes
     digest: 5db49426ab97acb0a52ac0757349d063685c2b93323db2b6116c0558725dbc75
     maintainers:
@@ -146,7 +146,7 @@ entries:
     - ashp-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.292488311Z"
+    created: "2025-07-08T14:58:22.347785476Z"
     description: Deploy ASHP to Kubernetes
     digest: 5498a8bbcbc622ff83a15e1e3e615c1370dba730a74b1a9c8e32a9f36bf9c856
     maintainers:
@@ -158,7 +158,7 @@ entries:
     - ashp-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.291951553Z"
+    created: "2025-07-08T14:58:22.347338244Z"
     description: Deploy ASHP to Kubernetes
     digest: 2adfbd77b5e9e768b841684533c3f3fd95249bba703b7ccb40930c09b04df714
     maintainers:
@@ -170,7 +170,7 @@ entries:
     - ashp-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.291402832Z"
+    created: "2025-07-08T14:58:22.346836641Z"
     description: Deploy ASHP to Kubernetes
     digest: 7f3afa36d58c794d71f7f0b9af61581b10d81e3fe2e47d6c07f852fc4a28789f
     maintainers:
@@ -182,7 +182,7 @@ entries:
     - ashp-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.303824311Z"
+    created: "2025-07-08T14:58:22.358125116Z"
     description: Deploy ASHP to Kubernetes
     digest: 04a0ec2bcd89617b66d8a8a435da531bad6bde698840a1e91f38d8466860056f
     maintainers:
@@ -194,7 +194,7 @@ entries:
     - ashp-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.303316528Z"
+    created: "2025-07-08T14:58:22.357658508Z"
     description: Deploy ASHP to Kubernetes
     digest: 1596dc03315b75fef695150e97bbb15b2cdacfa97497d352c7ca8c02bdb81ef6
     maintainers:
@@ -206,7 +206,7 @@ entries:
     - ashp-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.302826819Z"
+    created: "2025-07-08T14:58:22.35720252Z"
     description: Deploy ASHP to Kubernetes
     digest: 1ea812f641f0bdd7d0dc9eb3e9ee069016f252a2c4c1ec58b1e949ea25994784
     maintainers:
@@ -218,7 +218,7 @@ entries:
     - ashp-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.302313055Z"
+    created: "2025-07-08T14:58:22.356731614Z"
     description: Deploy ASHP to Kubernetes
     digest: 87e9e807ddeb7a630caf317422820829c3723fffa8e91af7de528c12e5d454cc
     maintainers:
@@ -230,7 +230,7 @@ entries:
     - ashp-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.301796225Z"
+    created: "2025-07-08T14:58:22.35625114Z"
     description: Deploy ASHP to Kubernetes
     digest: 078889b5cbd5201b2dac505f64e285df36461d3c15a30cd87e46588c43de7cb4
     maintainers:
@@ -242,7 +242,7 @@ entries:
     - ashp-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.301212708Z"
+    created: "2025-07-08T14:58:22.355748966Z"
     description: Deploy ASHP to Kubernetes
     digest: 2878298acdc727a8715dc78b001e4e2e41e45f5bcd55975abde063cefeb30083
     maintainers:
@@ -254,7 +254,7 @@ entries:
     - ashp-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.300710325Z"
+    created: "2025-07-08T14:58:22.355214591Z"
     description: Deploy ASHP to Kubernetes
     digest: c10ff1b0c922fdbcb78d9d4a8d7e4397ef8a7d4e3f4dfa9342ed8a12b4a45582
     maintainers:
@@ -266,7 +266,7 @@ entries:
     - ashp-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.297535063Z"
+    created: "2025-07-08T14:58:22.352545513Z"
     description: Deploy ASHP to Kubernetes
     digest: 6fd87ee67ae453b92a5d6b200150add3ff8d79a8b41bc45d6369024b9a445ac4
     maintainers:
@@ -278,7 +278,7 @@ entries:
     - ashp-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.29082132Z"
+    created: "2025-07-08T14:58:22.346319418Z"
     description: Deploy ASHP to Kubernetes
     digest: 8c3c8ddac0df101decf77c60cc8006ec6daacedc544525cbdc149550b6dac5b7
     maintainers:
@@ -290,7 +290,7 @@ entries:
     - ashp-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2025-06-27T09:52:12.290210932Z"
+    created: "2025-07-08T14:58:22.345745779Z"
     description: Deploy ASHP to Kubernetes
     digest: 4e0ed5e0337a6569395db35777f88b9436c0b55b9f924faeda7265ad7f91566a
     maintainers:
@@ -304,7 +304,7 @@ entries:
   beam:
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.511177058Z"
+    created: "2025-07-08T14:58:22.481553062Z"
     description: Deploy BEAM to Kubernetes
     digest: 010426f186fcca07a8bd26bd5a72c6da5551c72d9fb75204e1fa670fea78a741
     maintainers:
@@ -317,7 +317,7 @@ entries:
     version: 1.8.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.510583973Z"
+    created: "2025-07-08T14:58:22.481040999Z"
     description: Deploy BEAM to Kubernetes
     digest: c7c6b6a7b3bca576cc0ef27e10543ff80f7d2c4174eca8615dc14c8ca4686253
     maintainers:
@@ -330,7 +330,7 @@ entries:
     version: 1.8.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.50997628Z"
+    created: "2025-07-08T14:58:22.480486756Z"
     description: Deploy BEAM to Kubernetes
     digest: a88bd048141e65658d587980409f02ed3016b238ecf5bc2e5aefd6b2f323ec4e
     maintainers:
@@ -343,7 +343,7 @@ entries:
     version: 1.8.1
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.509361715Z"
+    created: "2025-07-08T14:58:22.479921362Z"
     description: Deploy BEAM to Kubernetes
     digest: 852288b45eba0addcd9c6ad134bf00179c0dbf4dc0b7e6eb747a2ee2368ae786
     maintainers:
@@ -356,7 +356,7 @@ entries:
     version: 1.8.0
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.508503239Z"
+    created: "2025-07-08T14:58:22.478707925Z"
     description: Deploy BEAM to Kubernetes
     digest: 7f6d8377ae6c121431a08d0910312177c03172ec10d47e7d5733cb98e1fb7c82
     maintainers:
@@ -369,7 +369,7 @@ entries:
     version: 1.7.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.507157777Z"
+    created: "2025-07-08T14:58:22.478203206Z"
     description: Deploy BEAM to Kubernetes
     digest: 4fafcafb0efb0fd27342221ffe35d1b55240f81944c64fd388c6d24746530194
     maintainers:
@@ -382,7 +382,7 @@ entries:
     version: 1.7.1
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.505738676Z"
+    created: "2025-07-08T14:58:22.477660194Z"
     description: Deploy BEAM to Kubernetes
     digest: 1e51df0f75e39e270d64e8d248f17375712d7e6ec50bd4285394353442420f2c
     maintainers:
@@ -395,7 +395,7 @@ entries:
     version: 1.7.0
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.504874938Z"
+    created: "2025-07-08T14:58:22.477131359Z"
     description: Deploy BEAM to Kubernetes
     digest: 7ab14fe09a43b6beef452c6882c41498597e989e5b658392bf6345b88ff92ce6
     maintainers:
@@ -408,7 +408,7 @@ entries:
     version: 1.6.0
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.504305838Z"
+    created: "2025-07-08T14:58:22.476619497Z"
     description: Deploy BEAM to Kubernetes
     digest: 0a6cb157a44716e3e6e64ceae31aca8676e648993374477d38d611e048a87000
     maintainers:
@@ -421,7 +421,7 @@ entries:
     version: 1.5.8
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.50373753Z"
+    created: "2025-07-08T14:58:22.476109227Z"
     description: Deploy BEAM to Kubernetes
     digest: e63c32dee61f327cc816a02b47cb023151014059f81bb7428d8ba6f4eeb5623a
     maintainers:
@@ -434,7 +434,7 @@ entries:
     version: 1.5.7
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.503150487Z"
+    created: "2025-07-08T14:58:22.475536429Z"
     description: Deploy BEAM to Kubernetes
     digest: d9873b47071e3c51f5e31e2d6b252d2f40169f6364fa363c1a06709be0f8b2d4
     maintainers:
@@ -447,7 +447,7 @@ entries:
     version: 1.5.6
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.502565768Z"
+    created: "2025-07-08T14:58:22.475034355Z"
     description: Deploy BEAM to Kubernetes
     digest: ad5a5438d85b658e609e5c37b5a6d3418771ba5efa728691892c02a36a4f2290
     maintainers:
@@ -460,7 +460,7 @@ entries:
     version: 1.5.5
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.501996098Z"
+    created: "2025-07-08T14:58:22.474500771Z"
     description: Deploy BEAM to Kubernetes
     digest: 4484d3a4cf8235bc24e7de363c5da1f6021518bf93ba819d0adfa095dc67dc7a
     maintainers:
@@ -473,7 +473,7 @@ entries:
     version: 1.5.4
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.501391371Z"
+    created: "2025-07-08T14:58:22.47394764Z"
     description: Deploy BEAM to Kubernetes
     digest: 63c73595c35cbf5778b313ec7986a8995bf7f81d523e631d82bacf2204870e5d
     maintainers:
@@ -486,7 +486,7 @@ entries:
     version: 1.5.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.500841528Z"
+    created: "2025-07-08T14:58:22.473115097Z"
     description: Deploy BEAM to Kubernetes
     digest: 26f50395278a80796c3a0033f83fd25816e961875e247b2bac2954c9cad282df
     maintainers:
@@ -499,7 +499,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.500247561Z"
+    created: "2025-07-08T14:58:22.472029417Z"
     description: Deploy BEAM to Kubernetes
     digest: 674b8581fc96a1707b11a1e7f52e2340997008ba5a9d653d21eee062c2eec9cb
     maintainers:
@@ -512,7 +512,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.499692849Z"
+    created: "2025-07-08T14:58:22.471530598Z"
     description: Deploy BEAM to Kubernetes
     digest: 3e73cabca7c86c5db439a7b457ebe3b9fa38f6e92b58b43e45161aabe6c25c9f
     maintainers:
@@ -525,7 +525,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.492229521Z"
+    created: "2025-07-08T14:58:22.466057884Z"
     description: Deploy BEAM to Kubernetes
     digest: 7f8fbd4167b20bed5a9dd56e3dbe7395f4a1d492ceab62428ec57d189c262dee
     maintainers:
@@ -538,7 +538,7 @@ entries:
     version: 1.4.10
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.499073083Z"
+    created: "2025-07-08T14:58:22.471043793Z"
     description: Deploy BEAM to Kubernetes
     digest: 621d64b384021f8e5782e65fc6c48a4cc67c781a2443b4931990c3ae255142b2
     maintainers:
@@ -551,7 +551,7 @@ entries:
     version: 1.4.9
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.498431707Z"
+    created: "2025-07-08T14:58:22.470492195Z"
     description: Deploy BEAM to Kubernetes
     digest: 0ba1d4dcbad05483bf87b33a55888a933833ff19015012e4a82381a2b751255c
     maintainers:
@@ -564,7 +564,7 @@ entries:
     version: 1.4.8
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.496827292Z"
+    created: "2025-07-08T14:58:22.469994088Z"
     description: Deploy BEAM to Kubernetes
     digest: 885e0cfb97c8150b775a8b9883e954cefb4fb5a2c11659ac58cb8ec8e5143bf2
     maintainers:
@@ -577,7 +577,7 @@ entries:
     version: 1.4.7
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.495179977Z"
+    created: "2025-07-08T14:58:22.469471776Z"
     description: Deploy BEAM to Kubernetes
     digest: 2862401813ee0f2783ed79b94de60a6c00da894ebb966028af5d69cab4b2f716
     maintainers:
@@ -590,7 +590,7 @@ entries:
     version: 1.4.6
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.494583947Z"
+    created: "2025-07-08T14:58:22.468938723Z"
     description: Deploy BEAM to Kubernetes
     digest: ee6680187b0e47829556b929449a9f627e31dcebbc630be9c53014d4f10239c8
     maintainers:
@@ -603,7 +603,7 @@ entries:
     version: 1.4.5
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.494004388Z"
+    created: "2025-07-08T14:58:22.46837369Z"
     description: Deploy BEAM to Kubernetes
     digest: 58e0543c7475d6f5221d4f85bd15ed14828ad756d6a711a8a3e1a0a665891072
     maintainers:
@@ -616,7 +616,7 @@ entries:
     version: 1.4.4
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.493405462Z"
+    created: "2025-07-08T14:58:22.467776547Z"
     description: Deploy BEAM to Kubernetes
     digest: 2befb7024f63ea15b3767197f133cf7892311d954e7e16566eb8629c16d8b253
     maintainers:
@@ -629,7 +629,7 @@ entries:
     version: 1.4.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.492842194Z"
+    created: "2025-07-08T14:58:22.467234176Z"
     description: Deploy BEAM to Kubernetes
     digest: a88f6775cdd554a6370a6084ab65606d2bf6a648e65216655b20ad3dee88a421
     maintainers:
@@ -642,7 +642,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.491650674Z"
+    created: "2025-07-08T14:58:22.465304887Z"
     description: Deploy BEAM to Kubernetes
     digest: cfc3627890fd6373b10678b0e829c99d22e48e55fb26569a70c4fb388e485c1c
     maintainers:
@@ -655,7 +655,7 @@ entries:
     version: 1.4.1
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.491053782Z"
+    created: "2025-07-08T14:58:22.464787755Z"
     description: Deploy BEAM to Kubernetes
     digest: 6a139d24ee6e45ccee662d129cce1b27067cb802a3641bf042748836979e12ec
     maintainers:
@@ -668,7 +668,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.490445017Z"
+    created: "2025-07-08T14:58:22.464287283Z"
     description: Deploy BEAM to Kubernetes
     digest: 6fadb244c48b7fea066a12f4dd97c8900727d6c3fe669ad78f12700bc177cf69
     maintainers:
@@ -681,7 +681,7 @@ entries:
     version: 1.3.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.489842745Z"
+    created: "2025-07-08T14:58:22.463714916Z"
     description: Deploy BEAM to Kubernetes
     digest: 21148cf72a3f1e4c6e3cbb962c0d01f7823611c563e9926dbfcd418f077f8b70
     maintainers:
@@ -694,7 +694,7 @@ entries:
     version: 1.3.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.489182202Z"
+    created: "2025-07-08T14:58:22.463174299Z"
     description: Deploy BEAM to Kubernetes
     digest: c56b668630000ac849b434853f8b21c62a0021b0b3dddb77844a9b18be59c7cc
     maintainers:
@@ -707,7 +707,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.488574349Z"
+    created: "2025-07-08T14:58:22.462580453Z"
     description: Deploy BEAM to Kubernetes
     digest: c5cfd1104b82b4d8bd943501c4edf40567f74531f0bfd8d6c4a03c9d9d0bb8a7
     maintainers:
@@ -720,7 +720,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.487915189Z"
+    created: "2025-07-08T14:58:22.462022954Z"
     description: Deploy BEAM to Kubernetes
     digest: 63eaae0833ad853370d0aa3a671609651a0bc383b68dc59e2b7dccc1bd7fc188
     maintainers:
@@ -733,7 +733,7 @@ entries:
     version: 1.2.5
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.487128727Z"
+    created: "2025-07-08T14:58:22.461422164Z"
     description: Deploy BEAM to Kubernetes
     digest: 8715a96c8132116a797cf6c0a93f2fbc2d9fa1a39f30bbcda1f00506f95d0f44
     maintainers:
@@ -746,7 +746,7 @@ entries:
     version: 1.2.4
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.485620677Z"
+    created: "2025-07-08T14:58:22.460816344Z"
     description: Deploy BEAM to Kubernetes
     digest: 537956896ea06e9eac427bd55b0a1a92af763883ea6af4ae7bd0f97f9826f703
     maintainers:
@@ -759,7 +759,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.484043055Z"
+    created: "2025-07-08T14:58:22.459419905Z"
     description: Deploy BEAM to Kubernetes
     digest: e07d8c8ce73e5f5ef5d87bf7e8099023cfc0202ba419b901cfd834808c45e8be
     maintainers:
@@ -772,7 +772,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.482892052Z"
+    created: "2025-07-08T14:58:22.458871423Z"
     description: Deploy BEAM to Kubernetes
     digest: a8f8d3e103495fa66c03c35e829d0eb5799ea119cd82243bdf34d5b109edaa1c
     maintainers:
@@ -785,7 +785,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.481299834Z"
+    created: "2025-07-08T14:58:22.458310829Z"
     description: Deploy BEAM to Kubernetes
     digest: ac632442256290b915eed37808fae3a82bc93cd54c5c770b71e79d18818c5c94
     maintainers:
@@ -798,7 +798,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.427814433Z"
+    created: "2025-07-08T14:58:22.438511143Z"
     description: Deploy BEAM to Kubernetes
     digest: 3aa43ccfb2f8643b9e31d6624c3feca7e2653a7554a9da901628d388213c1a74
     maintainers:
@@ -811,7 +811,7 @@ entries:
     version: 1.1.23
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.426529797Z"
+    created: "2025-07-08T14:58:22.437208183Z"
     description: Deploy BEAM to Kubernetes
     digest: 5e9ae35bca256a3034b0f82e64d35392ce50aa59e770189424ce21cf29f9b6ee
     maintainers:
@@ -824,7 +824,7 @@ entries:
     version: 1.1.22
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.425179887Z"
+    created: "2025-07-08T14:58:22.436645344Z"
     description: Deploy BEAM to Kubernetes
     digest: a8510be9957bcbe497ea5c5f557f3235c6c5ead910f203c3bb6daec538297f94
     maintainers:
@@ -837,7 +837,7 @@ entries:
     version: 1.1.21
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.423943301Z"
+    created: "2025-07-08T14:58:22.43606902Z"
     description: Deploy BEAM to Kubernetes
     digest: 090c2be6658642e589ce558230a7b1cb52d8ba7f5251c7bbbbdba7b06452cc29
     maintainers:
@@ -850,7 +850,7 @@ entries:
     version: 1.1.20
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.417055948Z"
+    created: "2025-07-08T14:58:22.432923492Z"
     description: Deploy BEAM to Kubernetes
     digest: 0591716eac74db687339e6d5201e5632ad7d8b7214db3e870c48706ee1375889
     maintainers:
@@ -863,7 +863,7 @@ entries:
     version: 1.1.19
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.415799475Z"
+    created: "2025-07-08T14:58:22.432309828Z"
     description: Deploy BEAM to Kubernetes
     digest: 9151af3a59c10ac19026d74b595833b36b2ee9ccd7d72092db43170aca2f95d5
     maintainers:
@@ -876,7 +876,7 @@ entries:
     version: 1.1.18
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.414447241Z"
+    created: "2025-07-08T14:58:22.431292214Z"
     description: Deploy BEAM to Kubernetes
     digest: b5f1cb5b2ded80ab42f1c4ac9105aba071328dce3cad059151d631484855d873
     maintainers:
@@ -889,7 +889,7 @@ entries:
     version: 1.1.17
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.41323426Z"
+    created: "2025-07-08T14:58:22.430302719Z"
     description: Deploy BEAM to Kubernetes
     digest: 596714c8af6a01ce933439fbe6195b83318d596d915a6662d7ecf9d21fc1834f
     maintainers:
@@ -902,7 +902,7 @@ entries:
     version: 1.1.16
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.411948892Z"
+    created: "2025-07-08T14:58:22.429722578Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -919,7 +919,7 @@ entries:
     version: 1.1.15
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.400533752Z"
+    created: "2025-07-08T14:58:22.427193891Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -936,7 +936,7 @@ entries:
     version: 1.1.14
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.395120305Z"
+    created: "2025-07-08T14:58:22.424634096Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -953,7 +953,7 @@ entries:
     version: 1.1.13
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.389872642Z"
+    created: "2025-07-08T14:58:22.421192297Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -970,7 +970,7 @@ entries:
     version: 1.1.12
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.384165929Z"
+    created: "2025-07-08T14:58:22.418656537Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -987,7 +987,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.479991954Z"
+    created: "2025-07-08T14:58:22.45773761Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -1004,7 +1004,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.474354061Z"
+    created: "2025-07-08T14:58:22.455223792Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -1021,7 +1021,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.467345218Z"
+    created: "2025-07-08T14:58:22.452108031Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -1038,7 +1038,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.455773441Z"
+    created: "2025-07-08T14:58:22.44960362Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -1055,7 +1055,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.450318405Z"
+    created: "2025-07-08T14:58:22.447043113Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -1072,7 +1072,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.444802443Z"
+    created: "2025-07-08T14:58:22.443730772Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -1089,7 +1089,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.439160452Z"
+    created: "2025-07-08T14:58:22.441222354Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -1106,7 +1106,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.422693611Z"
+    created: "2025-07-08T14:58:22.435455766Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -1123,7 +1123,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.349218905Z"
+    created: "2025-07-08T14:58:22.396158213Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1140,7 +1140,7 @@ entries:
     version: 1.0.20
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.341802519Z"
+    created: "2025-07-08T14:58:22.390214041Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1157,7 +1157,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.33900365Z"
+    created: "2025-07-08T14:58:22.387689272Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1174,7 +1174,7 @@ entries:
     version: 1.0.18
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.336250449Z"
+    created: "2025-07-08T14:58:22.384795285Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1191,7 +1191,7 @@ entries:
     version: 1.0.17
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.331239996Z"
+    created: "2025-07-08T14:58:22.381811983Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1208,7 +1208,7 @@ entries:
     version: 1.0.16
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.328475673Z"
+    created: "2025-07-08T14:58:22.379249843Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1225,7 +1225,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.325400641Z"
+    created: "2025-07-08T14:58:22.376000845Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1242,7 +1242,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.321504855Z"
+    created: "2025-07-08T14:58:22.373520809Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1259,7 +1259,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.31802775Z"
+    created: "2025-07-08T14:58:22.370911922Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1276,7 +1276,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.315264549Z"
+    created: "2025-07-08T14:58:22.367717433Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1293,7 +1293,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.312474848Z"
+    created: "2025-07-08T14:58:22.36515364Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1310,7 +1310,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.377101087Z"
+    created: "2025-07-08T14:58:22.41570526Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1327,7 +1327,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.371808279Z"
+    created: "2025-07-08T14:58:22.412797721Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1344,7 +1344,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.366579061Z"
+    created: "2025-07-08T14:58:22.410303749Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1361,7 +1361,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.362365639Z"
+    created: "2025-07-08T14:58:22.407111935Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1378,7 +1378,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.357556901Z"
+    created: "2025-07-08T14:58:22.404596984Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1395,7 +1395,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.35481443Z"
+    created: "2025-07-08T14:58:22.402032781Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1412,7 +1412,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.352015411Z"
+    created: "2025-07-08T14:58:22.398698922Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1429,7 +1429,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.345420311Z"
+    created: "2025-07-08T14:58:22.393532674Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1446,7 +1446,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2025-06-27T09:52:12.308917611Z"
+    created: "2025-07-08T14:58:22.362553489Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -1464,7 +1464,7 @@ entries:
   ce-api:
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.522322567Z"
+    created: "2025-07-08T14:58:22.490682263Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 8bf19b471e16f100ed35f06815854596c8b234cad1d9fde0aeca5802e4641661
     maintainers:
@@ -1477,7 +1477,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.51608185Z"
+    created: "2025-07-08T14:58:22.48700722Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 7cc122d8c6e143f28df8bac880a76fbf26ada53f149a792f87aaef28beeac249
     maintainers:
@@ -1490,7 +1490,7 @@ entries:
     version: 1.1.10
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.521904654Z"
+    created: "2025-07-08T14:58:22.490293943Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 8c2c95f6a3a4c8645bbbfd579801a513fec29cc5230172d844b2a745d70f96e5
     maintainers:
@@ -1503,7 +1503,7 @@ entries:
     version: 1.1.9
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.521441225Z"
+    created: "2025-07-08T14:58:22.489925269Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 1d12b574ea174f658b54b14d7e0388f1989ddf7052c66b890f9c0ff49e1caa12
     maintainers:
@@ -1516,7 +1516,7 @@ entries:
     version: 1.1.8
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.521028112Z"
+    created: "2025-07-08T14:58:22.489536398Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: bbf37f3ea91dab0e18d1e38a9cbcc6817769a87ddfe9408a667a43b7b365da64
     maintainers:
@@ -1529,7 +1529,7 @@ entries:
     version: 1.1.7
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.520573409Z"
+    created: "2025-07-08T14:58:22.489159879Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: b19cd99010bc02a0a9dba9288f5c6fa66263e0a7bbded774540670d2c80a2da9
     maintainers:
@@ -1542,7 +1542,7 @@ entries:
     version: 1.1.6
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.52012061Z"
+    created: "2025-07-08T14:58:22.488762732Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 916d673cd184221551a004c0574b45053d4d03585da6a0c41b05869a4c24b130
     maintainers:
@@ -1555,7 +1555,7 @@ entries:
     version: 1.1.5
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.519597899Z"
+    created: "2025-07-08T14:58:22.488316573Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: aa6244f8c157fed6c9d6e41a3a46e3e7fdccaf210704faf3659d0bc7007b017b
     maintainers:
@@ -1568,7 +1568,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.518451825Z"
+    created: "2025-07-08T14:58:22.48785247Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 62a18288b251e96236043b4b68a7f1596b839b1517a981e890d35a27ea904f3e
     maintainers:
@@ -1581,7 +1581,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.517337592Z"
+    created: "2025-07-08T14:58:22.48740076Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 9d5adce8f5cdd63bb9ef9d2099586888d0b6ed456e7807ad824e4e3a0a3776a2
     maintainers:
@@ -1594,7 +1594,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.515666673Z"
+    created: "2025-07-08T14:58:22.486577872Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: ac7561746f9229489211f7fe39922682af3296d4a314b1efa1d547eea3ecbc65
     maintainers:
@@ -1607,7 +1607,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.515183977Z"
+    created: "2025-07-08T14:58:22.486100134Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 62a9f15d9d6021ec178f3433f9b54584605f82006ca6ffdccef2ced260405e92
     maintainers:
@@ -1620,7 +1620,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.514844554Z"
+    created: "2025-07-08T14:58:22.485376462Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 5cf2c29e522c2a4c03448cf648d38bb29c5e142c6fb15e8a8ae40b02bf77f0dd
     maintainers:
@@ -1633,7 +1633,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.51443675Z"
+    created: "2025-07-08T14:58:22.484483845Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: f09eb57c3f3f4c0d61a454ba613b6beab84d8a9cfa76b515e9550fbbc5981bac
     maintainers:
@@ -1646,7 +1646,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.514019569Z"
+    created: "2025-07-08T14:58:22.484130571Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 25f02ad15e9d1e27e36e3c86ceca9ad16e08f3932f374f7d807f293838e7ef85
     maintainers:
@@ -1659,7 +1659,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.513629159Z"
+    created: "2025-07-08T14:58:22.48373703Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: ae230e058085081f52d76376efa95833d91f4749d40284dd3342801c51f34b99
     maintainers:
@@ -1672,7 +1672,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.513200014Z"
+    created: "2025-07-08T14:58:22.483383565Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 99d672e22ab4dd613335edc10ae6a9ba6f0b82f823b7d843943eafbfa3cfd664
     maintainers:
@@ -1685,7 +1685,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.51281821Z"
+    created: "2025-07-08T14:58:22.483031724Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: c881df51bc0b7edab9ec209ec33cacf31a45fe4dd5554f15e5de84db85aeeb26
     maintainers:
@@ -1698,7 +1698,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.512410337Z"
+    created: "2025-07-08T14:58:22.482652941Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 22bebcd4749682228e480760f2a04393da7e3d096683de357dad45502c34e68d
     maintainers:
@@ -1711,7 +1711,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.511983898Z"
+    created: "2025-07-08T14:58:22.48229088Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: 2b1d83b93f8182cbe84c72b88bd2196bad0f9236065f6354daa482638c4b858d
     maintainers:
@@ -1724,7 +1724,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.511595271Z"
+    created: "2025-07-08T14:58:22.481938036Z"
     description: Deploy ClearlyEnergy API to Kubernetes
     digest: e61f04960fab9957063daeec94685121870a42a4da212792b0fa99b3f59c3015
     maintainers:
@@ -1738,7 +1738,7 @@ entries:
   ce-web:
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.534375819Z"
+    created: "2025-07-08T14:58:22.501598304Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: e11e7fe63d30307837976a8097606ef4d5b96e35556a3b37f8d03d840c7975c7
     maintainers:
@@ -1751,7 +1751,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.533925966Z"
+    created: "2025-07-08T14:58:22.501185498Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 019985693ff598bc9443a0b2adbaf9836b10987e5abc72a3af480900ffd9043f
     maintainers:
@@ -1764,7 +1764,7 @@ entries:
     version: 1.4.3
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.533424205Z"
+    created: "2025-07-08T14:58:22.500730322Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 831dde12d2df46d62dce599a9a3d973150442172d3a18c943dafbba52cb5ef96
     maintainers:
@@ -1777,7 +1777,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.532972708Z"
+    created: "2025-07-08T14:58:22.500182451Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: bf3f33a50077b15fc264e4777072715f26c3e4c99dce6d871157c13308d1e46f
     maintainers:
@@ -1790,7 +1790,7 @@ entries:
     version: 1.4.1
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.532505482Z"
+    created: "2025-07-08T14:58:22.49964528Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: d8fa1e7bc1d34e3e100c9059bafed6b4f75c05fd075145eee2673b2e3ad80fc6
     maintainers:
@@ -1803,7 +1803,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.531986418Z"
+    created: "2025-07-08T14:58:22.499130632Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: ed1592f563544260b8bcb35215bd000187ca484d0e29a85b6ebdce3eef5ed15e
     maintainers:
@@ -1816,7 +1816,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.531511968Z"
+    created: "2025-07-08T14:58:22.498580297Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: fa3a9f0fa21bf564f2239397da78a373e9e09a0b58be81139634543957a0760c
     maintainers:
@@ -1829,7 +1829,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.530990609Z"
+    created: "2025-07-08T14:58:22.49772031Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: b3c69641f4181c1978ecabeb506e6ba36e3c02641119047b5a0d4f3d9c1a584e
     maintainers:
@@ -1842,7 +1842,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.52531406Z"
+    created: "2025-07-08T14:58:22.494161948Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: bda4fe94ca053ed82969bf916ac17eb4ac3797d7ec27ccacd2b540bcdda99e14
     maintainers:
@@ -1855,7 +1855,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.524805416Z"
+    created: "2025-07-08T14:58:22.493712573Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 26602d8bd526629ec931b5904e6f5e18b20ccc7ef0dadb756697607f5b4167e1
     maintainers:
@@ -1868,7 +1868,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.524316298Z"
+    created: "2025-07-08T14:58:22.493276823Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: c494f77fb7981b12711f6295cb34b3375c5fe137c55068474d1c3e956f41dd89
     maintainers:
@@ -1881,7 +1881,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.523821459Z"
+    created: "2025-07-08T14:58:22.492799376Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 2689e0e7970788b1e6f1f68e5faf65f60d8fdd21523c8df2e6e01fc1397bc4f4
     maintainers:
@@ -1894,7 +1894,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.523329336Z"
+    created: "2025-07-08T14:58:22.492331766Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 7222fb4e92773b18f1938c6257f4fd152a10426629228310e7407d584837579b
     maintainers:
@@ -1907,7 +1907,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.522817094Z"
+    created: "2025-07-08T14:58:22.491135275Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 4044df745a7712b0bf2801490f1b8f5580666a8224c1bf1f2c6b579bd29253f7
     maintainers:
@@ -1920,7 +1920,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.530533222Z"
+    created: "2025-07-08T14:58:22.496930156Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 5a4b13a4591bcf557961788c30e9d068f434a04fbbb28f88f9aea4f60e7df763
     maintainers:
@@ -1933,7 +1933,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.530013476Z"
+    created: "2025-07-08T14:58:22.496580769Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: e2a1fb633f21e3d9c6b6348f21afd639421d782d2a655fe57227fd7f025b1888
     maintainers:
@@ -1946,7 +1946,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.528991896Z"
+    created: "2025-07-08T14:58:22.496232333Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 405e3e329f6f19f1f1df28c15f1261d8412f5fdf819b11f1a5dbdde0b9279459
     maintainers:
@@ -1959,7 +1959,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.528124861Z"
+    created: "2025-07-08T14:58:22.495891753Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: a1cb12a22eb54f69bb9f869d641bbc17ef0914aa772a6c5f34601c7d5720d6cb
     maintainers:
@@ -1972,7 +1972,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.527168948Z"
+    created: "2025-07-08T14:58:22.495542776Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: d82896a87eec9f84023666c90449e8027e54f1122bf65321fb8b271f15d9d806
     maintainers:
@@ -1985,7 +1985,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.52653191Z"
+    created: "2025-07-08T14:58:22.495204279Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 82e6f1e80c3a7e957e8743c09b445e99fe422b68132012628ad96ced3fadd3c5
     maintainers:
@@ -1998,7 +1998,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.526092276Z"
+    created: "2025-07-08T14:58:22.494855784Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: 7cec5c81ed2bde3305fb1a863d08b7735ff95e44634ab6562ce24f6fc58ed1e4
     maintainers:
@@ -2011,7 +2011,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: develop
-    created: "2025-06-27T09:52:12.525723317Z"
+    created: "2025-07-08T14:58:22.494502099Z"
     description: Deploy ClearlyEnergy Web to Kubernetes
     digest: ece81481650f23f8e9699d32f1fca8295eda49587cb16a641d47dca4d19d0518
     maintainers:
@@ -2025,7 +2025,20 @@ entries:
   helix:
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.656601906Z"
+    created: "2025-07-08T14:58:22.613758535Z"
+    description: Deploy HELIX to Kubernetes
+    digest: e69ed589409078071ff4ff57e9a3b935822c860d499cd5ecb4009499eea49f42
+    maintainers:
+    - name: ClearlyEnergy
+      url: https://clearlyenergy.com
+    name: helix
+    type: application
+    urls:
+    - helix-1.6.0.tgz
+    version: 1.6.0
+  - apiVersion: v2
+    appVersion: 2023-04-20T19-33
+    created: "2025-07-08T14:58:22.613270607Z"
     description: Deploy HELIX to Kubernetes
     digest: 53d267f6533231dcdd4bc139356ab1e5b8017c62e773352d64962c87b12936f1
     maintainers:
@@ -2038,7 +2051,7 @@ entries:
     version: 1.5.6
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.655273013Z"
+    created: "2025-07-08T14:58:22.612733106Z"
     description: Deploy HELIX to Kubernetes
     digest: 3565be68fbe564bd51df020c24157ad6d77ee800674e4d03c373737857141cb8
     maintainers:
@@ -2051,7 +2064,7 @@ entries:
     version: 1.5.5
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.654096882Z"
+    created: "2025-07-08T14:58:22.612229018Z"
     description: Deploy HELIX to Kubernetes
     digest: 36b0edc3db858b4ab89bd5243f2c4a6b8868df062c57810267379527b9f59f1c
     maintainers:
@@ -2064,7 +2077,7 @@ entries:
     version: 1.5.4
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.652779253Z"
+    created: "2025-07-08T14:58:22.610892909Z"
     description: Deploy HELIX to Kubernetes
     digest: d3ab3ed9e90f99280b7d65cd81deb448f90b27f79a5ccad062d8f4c4e425c96e
     maintainers:
@@ -2077,7 +2090,7 @@ entries:
     version: 1.5.3
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.652253817Z"
+    created: "2025-07-08T14:58:22.610418637Z"
     description: Deploy HELIX to Kubernetes
     digest: fcfbeabcc514d3ca7b567e28fcd0044ceea271fcfa5e65381fbeb0ff2cde4aa9
     maintainers:
@@ -2090,7 +2103,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.651742807Z"
+    created: "2025-07-08T14:58:22.609922835Z"
     description: Deploy HELIX to Kubernetes
     digest: 3fdfdc7f338c92ff48919be4a592db78cd800f3a4792fcbe48fcc219460bce31
     maintainers:
@@ -2103,7 +2116,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.651210468Z"
+    created: "2025-07-08T14:58:22.609445938Z"
     description: Deploy HELIX to Kubernetes
     digest: 01e24319529c75140ab6630e914d6d16243262c692dae9344195be88ba00aa56
     maintainers:
@@ -2116,7 +2129,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.650685732Z"
+    created: "2025-07-08T14:58:22.608969962Z"
     description: Deploy HELIX to Kubernetes
     digest: 7b0db3075610579c4a611811d44304978fef80047a8526268357e62c07a23cb3
     maintainers:
@@ -2129,7 +2142,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.65011509Z"
+    created: "2025-07-08T14:58:22.608476033Z"
     description: Deploy HELIX to Kubernetes
     digest: 253d3df15df5f03ecc931f8d4cf60eeea069c438a5d5ccc11e469c540f6e1a6f
     maintainers:
@@ -2142,7 +2155,7 @@ entries:
     version: 1.3.3
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.649546111Z"
+    created: "2025-07-08T14:58:22.607966354Z"
     description: Deploy HELIX to Kubernetes
     digest: 4aec76ab71de6fc369acaa689da399458d73fa914e67ba471eb7731e42f883e8
     maintainers:
@@ -2155,7 +2168,7 @@ entries:
     version: 1.3.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.648973455Z"
+    created: "2025-07-08T14:58:22.607396903Z"
     description: Deploy HELIX to Kubernetes
     digest: fd75e1e1de4b4f8e31b069866dc15fd7798b160f1e6afa7d5d8f6680019a7c8d
     maintainers:
@@ -2168,7 +2181,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.648394186Z"
+    created: "2025-07-08T14:58:22.606876564Z"
     description: Deploy HELIX to Kubernetes
     digest: ebacb6788c10c56c1a270a0bcf1e85f61e4da94f7e7b2c0f9ec1eea58f6ac581
     maintainers:
@@ -2181,7 +2194,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.628087515Z"
+    created: "2025-07-08T14:58:22.59027101Z"
     description: Deploy HELIX to Kubernetes
     digest: 2551a16f8e71c27b8c0249a29c5e3152244d0211c09504ac788f41efc4c7604e
     maintainers:
@@ -2194,7 +2207,7 @@ entries:
     version: 1.2.13
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.627519197Z"
+    created: "2025-07-08T14:58:22.589724212Z"
     description: Deploy HELIX to Kubernetes
     digest: 4e8cdcf3f18df772d3223911a4079f46a8126cee5b4dd6cb8873622cc6b60587
     maintainers:
@@ -2207,7 +2220,7 @@ entries:
     version: 1.2.11
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.626913708Z"
+    created: "2025-07-08T14:58:22.589172544Z"
     description: Deploy HELIX to Kubernetes
     digest: 7576162823810d1f0b1554019cdb2257367ccf87fc937117903bc7bcbaa48ef0
     maintainers:
@@ -2220,7 +2233,7 @@ entries:
     version: 1.2.10
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.647833513Z"
+    created: "2025-07-08T14:58:22.606328483Z"
     description: Deploy HELIX to Kubernetes
     digest: 08d7504a6f69484bb63cf3bbc8369366e9ce7bd5091dd6fadfbf6f28dcabfe6b
     maintainers:
@@ -2233,7 +2246,7 @@ entries:
     version: 1.2.9
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.647260566Z"
+    created: "2025-07-08T14:58:22.605759813Z"
     description: Deploy HELIX to Kubernetes
     digest: 93700e02410679ed4627eec2a2a740181ff6479e78ce78c7a3199878863640b0
     maintainers:
@@ -2246,7 +2259,7 @@ entries:
     version: 1.2.8
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.646687149Z"
+    created: "2025-07-08T14:58:22.605150357Z"
     description: Deploy HELIX to Kubernetes
     digest: 5111f49d637124381522f65a5aab6b5c1e86a627dbace697d11a580379a0dda5
     maintainers:
@@ -2259,7 +2272,7 @@ entries:
     version: 1.2.7
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.646031024Z"
+    created: "2025-07-08T14:58:22.603690731Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -2276,7 +2289,7 @@ entries:
     version: 1.2.6
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.642333181Z"
+    created: "2025-07-08T14:58:22.601190368Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -2293,7 +2306,7 @@ entries:
     version: 1.2.5
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.638539746Z"
+    created: "2025-07-08T14:58:22.598668985Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -2310,7 +2323,7 @@ entries:
     version: 1.2.4
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.635727192Z"
+    created: "2025-07-08T14:58:22.595290132Z"
     dependencies:
     - name: timescaledb-single
       repository: https://ClearlyEnergy.github.io/charts/
@@ -2327,7 +2340,7 @@ entries:
     version: 1.2.3
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.632890422Z"
+    created: "2025-07-08T14:58:22.592749542Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2344,7 +2357,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.626285667Z"
+    created: "2025-07-08T14:58:22.588573888Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2361,7 +2374,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.623435181Z"
+    created: "2025-07-08T14:58:22.585126814Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2378,7 +2391,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.62051861Z"
+    created: "2025-07-08T14:58:22.582542312Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2395,7 +2408,7 @@ entries:
     version: 1.1.4
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.61527252Z"
+    created: "2025-07-08T14:58:22.580014086Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2412,7 +2425,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.612400603Z"
+    created: "2025-07-08T14:58:22.576676718Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2429,7 +2442,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.609646529Z"
+    created: "2025-07-08T14:58:22.574128274Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2446,7 +2459,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.606908056Z"
+    created: "2025-07-08T14:58:22.57153722Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2463,7 +2476,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.581386849Z"
+    created: "2025-07-08T14:58:22.541290302Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2480,7 +2493,7 @@ entries:
     version: 1.0.20
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.574028894Z"
+    created: "2025-07-08T14:58:22.536258888Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2497,7 +2510,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.571217121Z"
+    created: "2025-07-08T14:58:22.532988075Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2514,7 +2527,7 @@ entries:
     version: 1.0.18
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.568419505Z"
+    created: "2025-07-08T14:58:22.530464057Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2531,7 +2544,7 @@ entries:
     version: 1.0.17
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.563695345Z"
+    created: "2025-07-08T14:58:22.52786624Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2548,7 +2561,7 @@ entries:
     version: 1.0.16
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.560868954Z"
+    created: "2025-07-08T14:58:22.524498234Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2565,7 +2578,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.558076218Z"
+    created: "2025-07-08T14:58:22.5219865Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2582,7 +2595,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.555300583Z"
+    created: "2025-07-08T14:58:22.518696127Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2599,7 +2612,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.550284632Z"
+    created: "2025-07-08T14:58:22.516186306Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2616,7 +2629,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.547480504Z"
+    created: "2025-07-08T14:58:22.51364194Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2633,7 +2646,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.544753041Z"
+    created: "2025-07-08T14:58:22.510107073Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2650,7 +2663,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.602552895Z"
+    created: "2025-07-08T14:58:22.567869941Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2667,7 +2680,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.599573054Z"
+    created: "2025-07-08T14:58:22.565373846Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2684,7 +2697,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.596910644Z"
+    created: "2025-07-08T14:58:22.562816646Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2701,7 +2714,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.59421949Z"
+    created: "2025-07-08T14:58:22.559628418Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2718,7 +2731,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.589690017Z"
+    created: "2025-07-08T14:58:22.554868094Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2735,7 +2748,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.586929992Z"
+    created: "2025-07-08T14:58:22.550305751Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2752,7 +2765,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.584162293Z"
+    created: "2025-07-08T14:58:22.545449596Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2769,7 +2782,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.576811932Z"
+    created: "2025-07-08T14:58:22.538740295Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2786,7 +2799,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.54192638Z"
+    created: "2025-07-08T14:58:22.507577194Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2803,7 +2816,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 2023-04-20T19-33
-    created: "2025-06-27T09:52:12.537165801Z"
+    created: "2025-07-08T14:58:22.504096724Z"
     dependencies:
     - name: timescaledb-single
       repository: https://charts.timescale.com
@@ -2821,7 +2834,7 @@ entries:
   mass-ubid:
   - apiVersion: v2
     appVersion: "2025-06-02"
-    created: "2025-06-27T09:52:12.657503365Z"
+    created: "2025-07-08T14:58:22.614515188Z"
     description: A Helm chart for MASS-UBID
     digest: f732bd947c61402180c7049a09ce5183e0fd20beb04aa23767d947f2ad14ff26
     maintainers:
@@ -2834,7 +2847,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: "2025-06-02"
-    created: "2025-06-27T09:52:12.657080614Z"
+    created: "2025-07-08T14:58:22.614160661Z"
     description: A Helm chart for MASS-UBID
     digest: c6d07f3b183f79fa13ac065655278349d1d6fbdfc3f666d049a469749216aaa8
     maintainers:
@@ -2847,7 +2860,7 @@ entries:
     version: 1.0.0
   timescaledb-single:
   - apiVersion: v1
-    created: "2025-06-27T09:52:12.666556335Z"
+    created: "2025-07-08T14:58:22.623020926Z"
     description: TimescaleDB HA Deployment.
     digest: 09281d2e6c3a5a4f6dcf68cf609d3e82568f7c6844e3953e84cca24e0345fc7d
     home: https://github.com/timescale/helm-charts
@@ -2864,7 +2877,7 @@ entries:
     - timescaledb-single-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v1
-    created: "2025-06-27T09:52:12.663923973Z"
+    created: "2025-07-08T14:58:22.621124339Z"
     description: TimescaleDB HA Deployment.
     digest: 7c0a7039f9ea8e41eee0c00ca40ebb88125f35544511e059a312ecd41d040b8d
     home: https://github.com/timescale/helm-charts
@@ -2881,7 +2894,7 @@ entries:
     - timescaledb-single-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v1
-    created: "2025-06-27T09:52:12.661819331Z"
+    created: "2025-07-08T14:58:22.618990785Z"
     description: TimescaleDB HA Deployment.
     digest: d40a6d98e556fb45892cf3fafd19920dcf421321b7c67089c54bac1d34b3dbbf
     home: https://github.com/timescale/helm-charts
@@ -2898,7 +2911,7 @@ entries:
     - timescaledb-single-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
-    created: "2025-06-27T09:52:12.659626803Z"
+    created: "2025-07-08T14:58:22.616426403Z"
     description: TimescaleDB HA Deployment.
     digest: d2fd26871918f7f17decfc363fc6587198a64ed4e604ad45b176c364fb1f91ba
     home: https://github.com/timescale/helm-charts
@@ -2914,4 +2927,4 @@ entries:
     urls:
     - timescaledb-single-1.0.1.tgz
     version: 1.0.1
-generated: "2025-06-27T09:52:12.289545239Z"
+generated: "2025-07-08T14:58:22.345176538Z"
