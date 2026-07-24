@@ -485,32 +485,6 @@ entries:
     version: 4.0.0
   - apiVersion: v2
     appVersion: 2023-06-08T17-58
-    created: "2026-07-24T14:21:55.883634663Z"
-    description: Deploy BEAM to Kubernetes
-    digest: 379eeb09cc1d3d7dfc1681242b5bdfa479f3a2c2f26e2cff3dc7cf2a3d7498cb
-    maintainers:
-    - name: ClearlyEnergy
-      url: https://clearlyenergy.com
-    name: beam
-    type: application
-    urls:
-    - beam-3.7.1.tgz
-    version: 3.7.1
-  - apiVersion: v2
-    appVersion: 2023-06-08T17-58
-    created: "2026-07-24T14:21:55.88270896Z"
-    description: Deploy BEAM to Kubernetes
-    digest: dc0254590737daba8e6d2c0735d2e819826c3bc743fc0a47659a05df20cb6e80
-    maintainers:
-    - name: ClearlyEnergy
-      url: https://clearlyenergy.com
-    name: beam
-    type: application
-    urls:
-    - beam-3.7.0.tgz
-    version: 3.7.0
-  - apiVersion: v2
-    appVersion: 2023-06-08T17-58
     created: "2026-07-24T14:21:55.881565992Z"
     description: Deploy BEAM to Kubernetes
     digest: d67d69499793d73bec63e2eaf2efbf587afa9b2700927b3361d4461cecffacea
